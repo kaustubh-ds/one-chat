@@ -11,7 +11,7 @@ export default function Projects() {
                         <p className="card-text">
                             Lorem ipsum dolor sit amet consectetur, adipisicing elit. Odit iure eligendi similique natus! Suscipit eligendi voluptatem iure qui aliquid. Iure, ex cumque fugit qui aperiam odit rem. Porro, iste eius.
                         </p>
-                        <a href="#" className="btn btn-success">Visit</a>
+                        <a href="#" className="btn btn-outline-dark">Visit</a>
                     </div>
                 </div>
 
@@ -21,7 +21,7 @@ export default function Projects() {
                         <p className="card-text">
                             Lorem ipsum dolor sit amet consectetur, adipisicing elit. Odit iure eligendi similique natus! Suscipit eligendi voluptatem iure qui aliquid. Iure, ex cumque fugit qui aperiam odit rem. Porro, iste eius.
                         </p>
-                        <a href="#" className="btn btn-success">Visit</a>
+                        <a href="#" className="btn btn-outline-dark">Visit</a>
                     </div>
                 </div>
 
@@ -31,7 +31,7 @@ export default function Projects() {
                         <p className="card-text">
                             Lorem ipsum dolor sit amet consectetur, adipisicing elit. Odit iure eligendi similique natus! Suscipit eligendi voluptatem iure qui aliquid. Iure, ex cumque fugit qui aperiam odit rem. Porro, iste eius.
                         </p>
-                        <a href="#" className="btn btn-success">Visit</a>
+                        <a href="#" className="btn btn-outline-dark">Visit</a>
                     </div>
                 </div>
             </div>

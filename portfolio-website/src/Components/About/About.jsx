@@ -6,11 +6,11 @@ export default function About() {
             <section className="resume-section" id="about">
                 <div className="resume-section-content">
                     <h1 className="mb-0">
-                        Kaustubh
-                        <span className="text-primary">Salunkhe</span>
+                        Kaustubh&nbsp;
+                        <span className="text-purple">Salunkhe</span>
                     </h1>
                     <div className="subheading mb-5">
-                        <a href="mailto:name@email.com">kaustubhdsalunkhe@email.com</a>
+                        <a className="text-purple" href="mailto:name@email.com">kaustubhdsalunkhe@email.com</a>
                     </div>
                     <p className="lead mb-5">
                         Hello there! I'm Kaustubh Salunkhe, Diploma graduate and Computer Engineering student! 
